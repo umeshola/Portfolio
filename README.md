@@ -7,22 +7,17 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
 - **Home Page**: An introduction to myself and my skills.
 - **About Page**: Detailed information about my background and experiences.
 - **Projects Page**: Showcase of the projects I've worked on, including descriptions and links.
-- **Contact Page**: A form to get in touch with me directly.
 - **Responsive Design**: The portfolio is optimized for various screen sizes and devices.
 
 ## Technologies Used
 
 - React.js: Frontend library for building user interfaces.
-- Vite: Fast build tool that leverages ESBuild for rapid development.
-- Framer Motion: Animation library for React.
 - EmailJS: Service for sending emails directly from JavaScript.
 - Tailwind CSS: Utility-first CSS framework for styling.
 
