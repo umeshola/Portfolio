@@ -177,6 +177,25 @@ const projects = [{
         source_code_link: "https://github.com/umeshola/404_DSA?tab=readme-ov-file",
     },
     {
+        name: "Splits",
+        description: "A web app that help user to get OTT subscription at lower price then the market by connecting the users.",
+        tags: [{
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "GraphQL",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: carrent,
+        source_code_link: "https://splits-x3v6.onrender.com/",
+    },
+    {
         name: "Paper trading",
         description: "Web application that enables users to search for stock, buy, and sell stock with easy and save there real money before jumping in the real market and lose there money.",
         tags: [{
