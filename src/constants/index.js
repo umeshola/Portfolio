@@ -192,7 +192,7 @@ const projects = [{
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
+        image: backend,
         source_code_link: "https://splits-x3v6.onrender.com/",
     },
     {
