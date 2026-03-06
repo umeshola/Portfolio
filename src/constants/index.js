@@ -193,7 +193,7 @@ const projects = [{
             },
         ],
         image: backend,
-        source_code_link: "https://splits-x3v6.onrender.com/",
+        source_code_link: "https://splits-5nw2.vercel.app/",
     },
     {
         name: "Paper trading",
